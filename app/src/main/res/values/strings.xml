@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Chartboost usage Training</string>
-    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_menu">Menu Activity</string>
+    <string name="title_activity_game">Game Activity</string>
 </resources>

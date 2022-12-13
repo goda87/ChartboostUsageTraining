@@ -6,7 +6,7 @@ plugins {
 android {
 
     defaultConfig {
-        applicationId = "es.goda87.tresenralla"
+        applicationId = "goda87.chartboost.training"
         versionCode = 1
         versionName = "1.0"
 
